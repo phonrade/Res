@@ -14,7 +14,7 @@ namespace Exercise1
         public static int test(int x, int y)
         {
             return x == y ? (x + y)*3 : x + y;
-            //test
+            //test jhgjhghj
         }
     }
 }
